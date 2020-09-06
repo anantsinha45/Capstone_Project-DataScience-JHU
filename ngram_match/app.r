@@ -35,7 +35,7 @@ ui <- fluidPage(
       h5("4. A question mark means no prediction, typically due to mis-spelling"),
       h5("5. Additional tabs show plots of the top ngrams in the dataset"),
       br(),
-      a("Source Code", href = "https://github.com/anantsinha45/JHU-Data-Science-Capstone/tree/master/ngram_match")
+      a("Source Code", href = "https://github.com/anantsinha45/Capstone_Project-DataScience-JHU/tree/master/ngram_match")
     ),
     
     # Show a plot of the generated distribution
