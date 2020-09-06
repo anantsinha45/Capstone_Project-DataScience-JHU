@@ -16,7 +16,7 @@ suppressPackageStartupMessages({
 })
 
 #' Source ngram matching function
-source("ngram.R")
+source("ngram.r")
 
 #' Define UI for application that draws a histogram
 ui <- fluidPage(
